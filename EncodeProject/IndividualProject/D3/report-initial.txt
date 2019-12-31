@@ -1,0 +1,80 @@
+JUnit version 4.12
+..E........E.........E.E.......E.....E..................E..E.E.E.E....E...........
+Time: 0.158
+There were 12 failures:
+1) encodeTest11(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #6. 
+Arguments used: [-k, i, -c, d, /tmp/junit13813585258581423504/junit4810962288817407139.tmp]
+Original File:  
+Throws Exception: java.lang.ArrayIndexOutOfBoundsException
+2) encodeTest22(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #1. 
+Arguments used: [-a, -2, /tmp/junit7765872049423239872/junit706686757011998640.tmp]
+Original File: The pig jumps at the zodiac 
+Throws Exception: java.lang.ArrayIndexOutOfBoundsException
+3) encodeTest31(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #7. 
+Arguments used: [-r, /tmp/junit11221194366123645621/junit11385015835217536304.tmp]
+Original File: 121132 
+New File Content:  
+Output: 
+4) encodeTest32(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #7. 
+Arguments used: [-k, /tmp/junit6379830999776381957/junit2775840112690144578.tmp]
+Original File: 121132 
+New File Content: 121132 
+Output: 
+5) encodeTest39(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #8. 
+Arguments used: [-l, z, /tmp/junit13379777717161493207/junit6046430269490993982.tmp]
+Original File: round the rough 
+and rugged rock 
+the ragged rascal ran 
+ 
+Throws Exception: java.lang.NullPointerException
+6) encodeTest44(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #4. 
+Arguments used: [m, -r, /tmp/junit17200197306760580844/junit4219295427139943832.tmp]
+Original File: my Mom is magMa 
+New File Content: y o s aga 
+Output: 
+7) encodeTest62(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #5. 
+Arguments used: [-c, b, -c, c, /tmp/junit6070086951516976061/junit9905856883297851733.tmp]
+Original File: ballista 
+is not catapult 
+New File Content: BALLISTA 
+IS NOT CATAPULT 
+Output: 
+8) encodeTest64(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #5. 
+Arguments used: [-a, -a, /tmp/junit9828850961968587668/junit7666509693866880136.tmp]
+Original File: look both ways before crossing the street 
+New File Content: LOOK BOTH WAYS BEFORE CROSSING THE STREET 
+Output: 
+9) encodeTest65(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #4. 
+Arguments used: [p, 2, /tmp/junit6679965614637515878/junit17331898387878630381.tmp]
+Original File: look both ways before crossing the street 
+New File Content: LOOK BOTH WAYS BEFORE CROSSING THE STREET 
+Output: 
+10) encodeTest66(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #6. 
+Arguments used: [-c, a, /tmp/junit14878322085666637719/junit10723909826413972841.tmp]
+Original File:  
+Throws Exception: java.lang.ArrayIndexOutOfBoundsException
+11) encodeTest67(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #8. 
+Arguments used: [-l, a, /tmp/junit12967834428494257432/junit1177596511161158773.tmp]
+Original File:  
+Throws Exception: java.lang.NullPointerException
+12) encodeTest71(edu.gatech.seclass.encode.MyMainTest)
+edu.gatech.seclass.encode.SDPBugException: You found Bug #9. 
+Arguments used: [-c, aA, /tmp/junit12440498726504904057/junit16605890417436334716.tmp]
+Original File: A&ce 8nt a s&int 
+New File Content: A&ce 8nt a s&int 
+Output: 
+
+FAILURES!!!
+Tests run: 70,  Failures: 12
+
